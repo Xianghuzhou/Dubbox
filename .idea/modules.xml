@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dubbox.iml" filepath="$PROJECT_DIR$/dubbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msademoapi/msademoapi.iml" filepath="$PROJECT_DIR$/msademoapi/msademoapi.iml" />
+    </modules>
+  </component>
+</project>
